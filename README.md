@@ -1,0 +1,2 @@
+# InsightsGenerator
+Insights generator
